@@ -1,1 +1,1 @@
-opensearchproject/opensearch-dashboards:latest
+nginx:latest
