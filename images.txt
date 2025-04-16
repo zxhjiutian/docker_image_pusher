@@ -1,1 +1,1 @@
-python:3.11-slim
+qdspr/ubuntu_gcc11_python11
