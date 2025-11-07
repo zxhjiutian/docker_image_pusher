@@ -1,2 +1,1 @@
-d3vilh/openvpn-server:latest
-d3vilh/openvpn-ui:latest
+xuxueli/xxl-job-admin:2.3.0
