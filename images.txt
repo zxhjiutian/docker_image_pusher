@@ -1,1 +1,1 @@
-xuxueli/xxl-job-admin:2.3.0
+claudecode/stable:latest
