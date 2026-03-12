@@ -1,1 +1,1 @@
-claudecode/stable:latest
+claude-code:latest
