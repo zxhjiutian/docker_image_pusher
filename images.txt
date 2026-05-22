@@ -1,2 +1,4 @@
-mysql:8.0
-redis:7.0
+elasticsearch:7.17.16
+minio/minio:latest
+rabbitmq:3.13-management
+redis:7-alpine
