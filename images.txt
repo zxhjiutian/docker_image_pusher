@@ -1,1 +1,3 @@
-crowdsecurity/crowdsec
+apache/skywalking-ui
+apache/skywalking-oap-server
+elasticsearch:7.9.0
