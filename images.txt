@@ -1,1 +1,1 @@
-apache/rocketmq-dashboard:latest
+apacherocketmq/rocketmq-dashboard:latest
