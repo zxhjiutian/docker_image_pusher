@@ -1,1 +1,2 @@
-apacherocketmq/rocketmq-dashboard:latest
+elasticsearch/elasticsearch:8.18.0
+
